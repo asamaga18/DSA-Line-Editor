@@ -1,0 +1,91 @@
+Parsippany Hills, forever as we stand
+Strong and courageous, leaders in our land
+Our goal is knowledge, which will conquer all
+Blue, black, and white, we walk with heads uplifted
+This line shouldn't be here
+Our Alma Mater, we will honor thee.
+
+Enter what file you would like to access (case sensitive, do NOT enter .txt at the end): 
+false case
+File not found; try again.
+Enter what file you would like to access (case sensitive, do NOT enter .txt at the end): 
+almamater
+Parsippany Hills, forever as we stand
+>p
+Amount of Lines> 1000
+--Beginning of Excerpt--
+Parsippany Hills, forever as we stand
+Strong and courageous, leaders in our land
+Our goal is knowledge, which will conquer all
+Blue, black, and white, we walk with heads uplifted
+This line shouldn't be here
+Our Alma Mater, we will honor thee.
+--End of Excerpt--
+
+Our Alma Mater, we will honor thee.
+>h
+Parsippany Hills, forever as we stand
+>b
+Beginning of File
+>d
+Cannot Delete This, Please Try Something Else
+Beginning of File
+>p
+Amount of Lines> 5
+--Beginning of Excerpt--
+Parsippany Hills, forever as we stand
+Strong and courageous, leaders in our land
+Our goal is knowledge, which will conquer all
+Blue, black, and white, we walk with heads uplifted
+This line shouldn't be here
+--End of Excerpt--
+
+This line shouldn't be here
+>d
+delete-->This line shouldn't be here
+Our Alma Mater, we will honor thee.
+>f
+End of File
+>d
+Cannot Delete This, Please Try Something Else
+End of File
+>p
+Can't Print This
+Our Alma Mater, we will honor thee.
+>i
+insert> banans
+banans
+>h
+Parsippany Hills, forever as we stand
+>p
+Amount of Lines> 10
+--Beginning of Excerpt--
+Parsippany Hills, forever as we stand
+Strong and courageous, leaders in our land
+Our goal is knowledge, which will conquer all
+Blue, black, and white, we walk with heads uplifted
+Our Alma Mater, we will honor thee.
+banans
+--End of Excerpt--
+
+banans
+>h
+Parsippany Hills, forever as we stand
+>t
+banans
+>h
+Parsippany Hills, forever as we stand
+>m
+Invalid Entry
+
+Parsippany Hills, forever as we stand
+>q
+File has been Edited and Program has been Quit
+ 
+
+Parsippany Hills, forever as we stand
+Strong and courageous, leaders in our land
+Our goal is knowledge, which will conquer all
+Blue, black, and white, we walk with heads uplifted
+Our Alma Mater, we will honor thee.
+banans
